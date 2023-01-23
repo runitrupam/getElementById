@@ -1,3 +1,18 @@
+/*
+
+<div id="parent">
+  <div id="child1">
+  </div>
+  <div id="child2">
+    <div id="subchild">
+      subchild!
+    </div>
+  </div>
+</div>
+
+
+
+*/
 function getElementById(id) {
     const result = [];
 
